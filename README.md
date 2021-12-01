@@ -27,11 +27,16 @@ of the Q2 and wanted to analysis the major issues it's customers are facing
  
 ![cloud](https://user-images.githubusercontent.com/85379601/144024632-b069b168-f8cf-4193-bb7e-6360139819dc.png)
 
-*These complaints for the year 2015 are majorly found in month of the june.*
+The above picture explains all the major words used by the customers in their complaints, these would help us find out the outlines of the problems but the real casuse of the problem is still unaware , for example customer service has issues like ticket not solved, no responce etc...Billing is major issues that crates irated customers when they dont have a service that is usable and the bills are high or over charged no customer will be happy,that would sink the ship . problems can be caused by technology ,weather conditions, faulty cable lines,faulty eqipment, and poorly skilled and managed , staff the these are the major problems ,for a company to gain trust in the people it not only need good product but good customer service as well Below are top 50 words used by the customers on the frequecy chart .
+
+![image](https://user-images.githubusercontent.com/85379601/144160468-ae0a98f0-7555-4c84-a399-c13b5b4d17db.png)
+
+
+*These complaints for the year 2015  Q2 are majorly found in month of the june.compared to the previous month number of complaints incresed more then 4X which is outragious *
 
 ![resize](https://user-images.githubusercontent.com/85379601/144024968-31584f63-80db-426c-a73d-fd8eca42f728.png)
 
-Most of the complaints are raised on 23rd,24th,25th dates of the months,the trend seems to higher
+Most of the complaints are raised on 23rd,24th,25th dates of the months,the trend seems to higher then normal ,may be end of the month most customers recieve bills, or internt usgae have been high .
 
 ![comp_day_resize](https://user-images.githubusercontent.com/85379601/144025418-baf7fb8e-cb63-4f63-9a05-848bf9782cf1.png)
 
@@ -49,5 +54,5 @@ Interms of contributions by city Atlanta have the highes complaints, and follwed
 ![Comp_city_resize](https://user-images.githubusercontent.com/85379601/144026709-f712e57c-122a-44cb-ab3b-09e83a9cc307.png)
 
 
-* The company needs focus more on the above types are isses , all these are generalized Domains and isses can be futhre brokendown such ,slowspeeds,dropouts,no internet...etc. in internt domain and highbills,unwanted bill, refundbills..etc. for billing domains ther
+* The company needs focus more on the above types of isses , all these are generalized Domains and isses can be futhre brokendown such ,slowspeeds,dropouts,no internet...etc. in internt domain and highbills,unwanted bill, refundbills..etc. for billing domains there are lot of cases at the begining of the week , comcast has to work hard to reduce the problems of the customers , revise their systems and take the complaints drill deep into it and findout why tickets are delayed, why bills are not generated correctly and most importantly reduce the problems with the internet , internet speeds can be effected by technology, hardlines , equipments and a lot , they need collect more data from customers while they are on calls.
 
